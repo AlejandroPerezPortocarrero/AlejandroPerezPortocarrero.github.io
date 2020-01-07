@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: "Hola!" /
 title: "Hola!"
 excerpt: "Welcome to my personal site!"
 author_profile: true
