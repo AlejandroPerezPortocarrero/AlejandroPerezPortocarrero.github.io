@@ -5,10 +5,12 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-The link to my CV is here
+
 ---
 
 {% include base_path %}
+
+The link to my CV is here
 
 Education
 ======
