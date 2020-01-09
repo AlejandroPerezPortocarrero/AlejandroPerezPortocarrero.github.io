@@ -11,8 +11,3 @@ redirect_from:
 Welcome to my personal site!
 
 ---
-
-- Hola
----
-
-Welcome to my personal site!
