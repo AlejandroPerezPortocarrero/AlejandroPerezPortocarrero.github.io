@@ -10,4 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-The link to my CV is here
+The link to my CV is [here](https://drive.google.com/file/d/1Jmnor9yykffsovv2lbW69sSpm5HPc_Kp/view?usp=sharing). 
