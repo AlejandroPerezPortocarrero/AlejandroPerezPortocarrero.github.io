@@ -9,5 +9,6 @@ redirect_from:
 ---
 
 Welcome to my personal site!
+You can contact me at: <alejandroperezportocarrero@gmail.com>
 
 ---
