@@ -18,6 +18,15 @@ Education
 
 Employment
 ======
+
+* 2020: Instituto de Estudios Peruanos (IEP)
+
+    *Research Assistant*
+    
+* 2020: Innovations for Poverty Action (IPA)
+
+    *Consultant*
+    
 * 2018-2020: Ministry of Education (MINEDU), General Directorate of Higher Education University
 
     *Economic Analyst*
