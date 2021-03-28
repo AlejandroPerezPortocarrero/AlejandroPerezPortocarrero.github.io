@@ -14,7 +14,7 @@ The link to my CV is [here](http://alejandroperezportocarrero.github.io/files/CV
 Education
 ======
 * B.A. in Economics, Universidad Nacional Mayor de San Marcos (Lima, Peru), 2016
-* Thesis “Educational  achievement  and  effectiveness  of schools in Peru:  A multilevel analysis of the Census of Students” [Spanish version here](http://alejandroperezportocarrero.github.io/files/Tesis Alejandro Pérez Portocarrero VF - versión digital.pdf), 2019
+* Thesis “Educational  achievement  and  effectiveness  of schools in Peru:  A multilevel analysis of the Census of Students”, 2019 [(Spanish version here)](http://alejandroperezportocarrero.github.io/files/Tesis Alejandro Pérez Portocarrero VF - versión digital.pdf)
 
 Employment
 ======
