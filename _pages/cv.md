@@ -24,13 +24,13 @@ Employment
 <li>Academic</li>
   
   <ul>
-  <li>Research Assistant at Instituto de Estudios Peruanos</li>
+  <li>Instituto de Estudios Peruanos</li>
     <ul>
-    <li>2020-2021. Topics: education, rural development, poverty, and labour markets </li>
+    <li>2020-2021. Research Assistant. Topics: education, rural development, poverty, and labour markets </li>
     </ul>
-  <li>Consultant at Innovations for Poverty Action</li>
+  <li>Innovations for Poverty Action</li>
     <ul>
-    <li>2020. Topics: education, and labour markets </li>
+    <li>2020. Consultant. Topics: education, and labour markets </li>
     </ul>
   </ul>  
   
