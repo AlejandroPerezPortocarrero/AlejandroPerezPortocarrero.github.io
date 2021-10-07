@@ -37,16 +37,21 @@ Employment
 <li>Public sector</li>
 
   <ul>
-  <li>Research Assistant at Instituto de Estudios Peruanos</li>
+  <li>Ministry of Education</li>
     <ul>
-    <li>2020-2021. Topics: education, rural development, poverty, and labour markets </li>
+    <li>2020-2021. Adviser at Ministerial Office. </li>
+    <li>2018-2020. Economic Analyst. </li>
+    <li>2017-2018. Consultant. </li>  
     </ul>
-  <li>Consultant at Innovations for Poverty Action</li>
+  <li>Ministry of Transport and Communications</li>
     <ul>
-    <li>2020. Topics: education, and labour markets </li>
+    <li>2016. Consultant. </li>
     </ul>
-  </ul>   
-
+  <li>National Centre for Strategic Planning</li>
+    <ul>
+    <li>2015-2016. Research Assistant (Junior). </li>
+    </ul>
+  </ul>  
 
 
 
