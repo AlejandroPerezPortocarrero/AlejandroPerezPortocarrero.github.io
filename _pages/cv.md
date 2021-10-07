@@ -24,7 +24,7 @@ Employment
 <li>Academic</li>
   
   <ul>
-  <li>First item</li>
+  <li>Research Assistant at Instituto de Estudios Peruanos</li>
   <li>Second item</li>
   <li>Third item</li>
   <li>Fourth item</li>
@@ -44,7 +44,7 @@ Employment
 
 * 2020: Instituto de Estudios Peruanos (IEP)
 
-    *Research Assistant*
+    **
 
 * 2020: Instituto de Estudios Peruanos (IEP)
 
