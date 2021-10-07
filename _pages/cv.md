@@ -34,6 +34,19 @@ Employment
     </ul>
   </ul>  
   
+<li>International cooperation</li>
+
+  <ul>
+   <li>Food and Agriculture Organization (FAO)</li>
+    <ul>
+    <li>2021. Consultant. </li>  
+    </ul>
+   <li>United Nations Educational, Scientific and Cultural Organization (UNESCO)</li>
+    <ul>
+    <li>2017. Consultant. </li>  
+    </ul>
+  </ul>  
+ 
 <li>Public sector</li>
 
   <ul>
@@ -52,7 +65,3 @@ Employment
     <li>2015-2016. Research Assistant (Junior). </li>
     </ul>
   </ul>  
-
-
-
-
