@@ -14,10 +14,32 @@ The link to my CV is [here](http://alejandroperezportocarrero.github.io/files/CV
 Education
 ======
 * B.A. in Economics, Universidad Nacional Mayor de San Marcos (Lima, Peru), 2016
-* Thesis “Educational  achievement  and  effectiveness  of schools in Peru:  A multilevel analysis of the Census of Students”, 2019 [(Spanish version here)](http://alejandroperezportocarrero.github.io/files/Tesis Alejandro Pérez Portocarrero VF - versión digital.pdf)
+* Thesis “Educational  achievement  and  effectiveness  of schools in Peru:  A multilevel analysis of the Census of Students”, 2019 
+<!---[(Spanish version here)](http://alejandroperezportocarrero.github.io/files/Tesis Alejandro Pérez Portocarrero VF - versión digital.pdf)-->
 
 Employment
 ======
+
+<ul>
+<li>First item</li>
+<li>Second item</li>
+
+  <ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+  </ul>
+  
+<li>Third item</li>
+<li>Fourth item</li>
+</ul>
+
+
+
+* 2020: Instituto de Estudios Peruanos (IEP)
+
+    *Research Assistant*
 
 * 2020: Instituto de Estudios Peruanos (IEP)
 
@@ -30,9 +52,6 @@ Employment
 * 2018-2020: Ministry of Education (MINEDU), General Directorate of Higher Education University
 
     *Economic Analyst*
-  
-    Design, execution, cleaning and analysis of national stdents surveys. Processing and
-managment of administrative data-sets on education, employment and sociodemographic characteristics. Preparation of studies and statistical reports of Higher Education. Coordination with public and private institutions.
 
 * 2017-2018: Ministry of Education (MINEDU), General Directorate of Quality of School Management
 
