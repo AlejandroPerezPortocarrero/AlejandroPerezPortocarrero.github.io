@@ -21,8 +21,16 @@ Employment
 ======
 
 <ul>
-<li>First item</li>
-<li>Second item</li>
+<li>Academic</li>
+  
+  <ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+  </ul>  
+  
+<li>Public sector</li>
 
   <ul>
   <li>First item</li>
@@ -30,9 +38,6 @@ Employment
   <li>Third item</li>
   <li>Fourth item</li>
   </ul>
-  
-<li>Third item</li>
-<li>Fourth item</li>
 </ul>
 
 
