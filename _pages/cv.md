@@ -25,50 +25,29 @@ Employment
   
   <ul>
   <li>Research Assistant at Instituto de Estudios Peruanos</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+    <ul>
+    <li>2020-2021. Topics: education, rural development, poverty, and labour markets </li>
+    </ul>
+  <li>Consultant at Innovations for Poverty Action</li>
+    <ul>
+    <li>2020. Topics: education, and labour markets </li>
+    </ul>
   </ul>  
   
 <li>Public sector</li>
 
   <ul>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
-  </ul>
-</ul>
+  <li>Research Assistant at Instituto de Estudios Peruanos</li>
+    <ul>
+    <li>2020-2021. Topics: education, rural development, poverty, and labour markets </li>
+    </ul>
+  <li>Consultant at Innovations for Poverty Action</li>
+    <ul>
+    <li>2020. Topics: education, and labour markets </li>
+    </ul>
+  </ul>   
 
 
-
-* 2020: Instituto de Estudios Peruanos (IEP)
-
-    **
-
-* 2020: Instituto de Estudios Peruanos (IEP)
-
-    *Research Assistant*
-    
-* 2020: Innovations for Poverty Action (IPA)
-
-    *Consultant*
-    
-* 2018-2020: Ministry of Education (MINEDU), General Directorate of Higher Education University
-
-    *Economic Analyst*
-
-* 2017-2018: Ministry of Education (MINEDU), General Directorate of Quality of School Management
-
-    *Economic Analyst*
-  
-    Processing and managment of administrative data-sets on education and sociodemographic characteristics. Preparation of studies and statistical reports of Basic Education. Coordination with public and private institutions.
-
-* 2017: UNESCO, Office in Lima
-
-    *Consultant*
-  
-    Preparation of the proposal for supervision and regulation of the private provision of the basic education educational service in the Lima Metropolitan Area. Processing and managment of administrative data-sets on education and sociodemographic characteristics.
 
 
 
