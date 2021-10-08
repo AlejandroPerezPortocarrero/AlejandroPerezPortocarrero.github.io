@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alejandro Javier Pérez Portocarrero"
+title                    : "Alejandro Javier Perez Portocarrero"
 title_separator          : "-"
-name                     : &name "Alejandro Javier Pérez Portocarrero"
+name                     : &name "Alejandro Javier Perez Portocarrero"
 description              : &description "Researcher at the National University of San Marcos"
 url                      : https://alejandroperezportocarrero.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alejandro Javier Pérez Portocarrero"
   avatar           : "profile.png"
-  bio              : "Research assistant at Instituto de Estudios Peruanos (IEP)."
+  bio              : "Graduate student in the MSc Development Economics at the University of Nottingham. Former Research assistant at Instituto de Estudios Peruanos (IEP)."
   location         : "Lima, Peru"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
