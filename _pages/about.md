@@ -12,7 +12,7 @@ Welcome to my personal site!
 
 I am a graduate of the Department of Economics of the Universidad Nacional Mayor de San Marcos (Lima, Peru). My main fields of interest are education, poverty and inequalities, and political economy.
 
-![Editing a markdown file for a talk](/images/post4graph1.png)
+![Editing a markdown file for a talk](/images/profile2.png)
 
 You can contact me at: <alejandroperezportocarrero@gmail.com>, <alejandrojavier.perez@unmsm.edu.pe>
 
