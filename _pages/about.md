@@ -14,6 +14,6 @@ I am a graduate of the Department of Economics of the Universidad Nacional Mayor
 
 You can contact me at: <alejandroperezportocarrero@gmail.com>, <alejandrojavier.perez@unmsm.edu.pe>
 
-<img src="/images/profile2.png" width="33%">
+</ img src="/images/profile2.png" width="33%">
 
 ---
