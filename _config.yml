@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alejandro Javier Perez Portocarrero"
   avatar           : "profile.png"
-  bio              : "MSc Development Economics at the University of Nottingham. Research at University of Nottingham and Instituto de Estudios Peruanos."
+  bio              : "MSc Development Economics at the University of Nottingham. Research assistant at the University of Nottingham and Instituto de Estudios Peruanos."
   location         : "Nottingham, UK"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "janoperezp1"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
