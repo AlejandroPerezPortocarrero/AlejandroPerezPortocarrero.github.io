@@ -14,6 +14,8 @@ I am a graduate of the MSc Development Economics at the University of Nottingham
 
 You can contact me at <alejandroperezportocarrero@gmail.com>.
 
-<img src="/images/profile2.png" width="33%">
+<!-- <img src="/images/profile2.png" width="33%"> -->
+<!-- Este es un comentario. -->
+
 
 ---
